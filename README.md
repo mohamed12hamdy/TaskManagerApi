@@ -18,6 +18,15 @@ A simple Spring Boot REST API for managing tasks. This project provides endpoint
 - H2 Database (in-memory)
 - Springdoc OpenAPI (Swagger UI)
 - Maven
+- 
+## 📸 Screenshots
+
+You can include screenshots of your API Swagger UI
+
+![Swagger Screenshot](https://github.com/mohamed12hamdy/TaskManagerApi/blob/master/images/Screenshot%20(117).png)
+
+
+
 
 ## Getting Started
 
